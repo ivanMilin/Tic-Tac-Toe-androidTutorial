@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidChatRoomClient</string>
+    <string name="messages">Poruke se pojavljuju ovde</string>
+    <string name="nickname">Ime:</string>
+    <string name="enter_room">Udji u sobu</string>
+    <string name="inRoom">U sobi:</string>
+    <string name="message">Poruka:</string>
+    <string name="MessageText">Poruka za slanje</string>
+    <string name="send_message">Posalji</string>
+    <string name="connect">Konektuj se</string>
+</resources>
